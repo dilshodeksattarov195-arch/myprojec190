@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtereecrypt",
+        "uuid": 635360,
+        "checksum": "0mjkh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
